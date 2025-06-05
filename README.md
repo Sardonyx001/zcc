@@ -24,7 +24,6 @@ A Chrome extension that adds a copy button to Zendesk comments and converts them
 4. Click "Load unpacked" and select the extension directory
    - ![Screenshot 2025-06-05 at 16 13 48](https://github.com/user-attachments/assets/4c59a76e-0ec0-4a5b-bb5d-6375babb5933)
 
-
 ## Usage
 
 1. Navigate to any Zendesk ticket page
