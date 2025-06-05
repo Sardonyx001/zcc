@@ -41,6 +41,12 @@ The extension consists of the following files:
 - `styles.css`: Styles for the copy button
 - `turndown.js`: The Turndown library for HTML to markdown conversion (from <https://unpkg.com/turndown/dist/turndown.js>)
 
+## Todo
+
+- [ ] add github actions to pack and generate releases
+- [ ] add a better icon
+- [ ] Add a button to copy the entire ticket page as markdown
+
 ## License
 
 MIT
