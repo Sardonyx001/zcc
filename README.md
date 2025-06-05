@@ -45,7 +45,8 @@ The extension consists of the following files:
 
 - [ ] add github actions to pack and generate releases
 - [ ] add a better icon
-- [ ] Add a button to copy the entire ticket page as markdown
+- [ ] add a button to copy the entire ticket page as markdown
+- [ ] rewrite the extension in [plasmo](https://github.com/PlasmoHQ/plasmo) or [wxt](https://github.com/wxt-dev/wxt) for cross-browser compatibility
 
 ## License
 
