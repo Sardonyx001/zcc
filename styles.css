@@ -1,0 +1,27 @@
+.copy-button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+}
+
+.copy-button:hover {
+  opacity: 1;
+}
+
+.copy-button svg {
+  width: 16px;
+  height: 16px;
+}
+
+.zd-comment {
+  position: relative;
+}
