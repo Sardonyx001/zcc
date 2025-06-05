@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Zendesk Comment Copy",
+  "version": "1.0",
+  "description": "Adds a copy button to Zendesk comments that copies content as markdown",
+  "permissions": ["clipboardWrite"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.zendesk.com/*"],
+      "js": ["turndown.js", "content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
